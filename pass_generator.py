@@ -21,7 +21,7 @@ def pass_generator(min_len,digits,special):
     random.shuffle(pwd) 
     return"".join(pwd)
 
-min_len = int(input("Enter password length: "))
+min_len = int(input("Enter password length : "))
 digits = input("Do you want to add digits to password? (yes/no)").lower()=="yes"
 special = input("Do you want to add special characters to password? (yes/no)").lower() == "yes"
 
