@@ -2,7 +2,7 @@
 spam_phrases = ["buy now", "follow me", "like this", "subscribe"]
 
 # Take input and convert to lowercase
-comment = input("Enter your comment: ").lower()
+comment = input(" Enter your comment: ").lower()
 
 # Check for spam
 found_spam = None

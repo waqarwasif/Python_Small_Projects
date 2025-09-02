@@ -1,7 +1,7 @@
 print("WELCOME TO THE QUIZ GAME 🧠")
 play = input("Do you want to play? ")
 
-if(play.lower()!="yes"):
+if( play.lower()!="yes"):
     quit()
 
 print("Let's start playing ")

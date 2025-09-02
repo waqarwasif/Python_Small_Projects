@@ -1,7 +1,7 @@
 import random
 
 comp = random.choice([1, -1, 0])
-you_str = input("Enter your choice g/s/w to play game: ")
+you_str = input(" Enter your choice g/s/w to play game: ")
 you_dict = {"g": 1, "s": -1, "w": 0}
 you_dict_rev = {1: "Gun🔫", -1: "Snake🐍", 0: "Water🌊"}
 you = you_dict[you_str]

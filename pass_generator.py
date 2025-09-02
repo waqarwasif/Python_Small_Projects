@@ -3,7 +3,7 @@ import string
 
 def pass_generator(min_len,digits,special):
 
-    pool = list(string.ascii_letters)
+    pool = list( string.ascii_letters)
     if digits:
         pool+=list(string.digits)
     if special:

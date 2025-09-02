@@ -2,7 +2,7 @@ import streamlit as st
 import random
 
 # App title
-st.title("⚡ Rock – Paper – Scissors Game")
+st.title("⚡ Rock – Paper – Scissors Game  ")
 st.write("Play against the computer and see who wins! 🚀")
 
 # Score state

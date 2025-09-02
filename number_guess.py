@@ -1,6 +1,6 @@
 import random
 print("Number Guessing Game")
-number = random.randint(1, 100) #if not include 100 so random.randrange(1,100)
+number =  random.randint(1, 100) #if not include 100 so random.randrange(1,100)
 guess = None
 attempts = 0
 while guess != number:

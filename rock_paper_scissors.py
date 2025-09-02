@@ -1,7 +1,7 @@
 import random
 print("⚡ Battle Time: You 🆚 Computer! 🤖")
 
-you_dict = {"r": 1, "s": -1, "p": 0 , "q":2}
+you_dict = {"r ": 1, "s": -1, "p": 0 , "q":2}
 you_dict_rev = {1: "Rock", -1: "Scissors", 0: "Paper" ,2:"q" }
 
 userwin = 0 

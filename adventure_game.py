@@ -1,7 +1,7 @@
 name = input("👤 Enter your name: ")
 print(f"✨ Welcome, {name}, to the adventurous jungle game! 🏝️🌴")
 print(
-    f"🎯 Listen {name}....\n"
+    f"🎯  Listen {name}....\n"
     "You are a brave treasure hunter 🧭💎 who enters a forbidden jungle temple. "
     "Every decision changes your destiny. ⚔️\n"
     "Some paths lead to fortune 💰, others to death ☠️, and some trap you forever… 🔒\n"
