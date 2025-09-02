@@ -1,0 +1,1 @@
+printf("The product is %d\n", x * y);
