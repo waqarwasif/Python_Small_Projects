@@ -2,5 +2,4 @@
 My Python Based Projects !
  
 
-Directory :
-C:\Users\usman electronics
+
